@@ -1,0 +1,10 @@
+{
+    "bracketSameLine": false,
+    "printWidth": 100,
+    "quoteProps": "as-needed",
+	"semi": false,
+    "singleQuote": true,
+    "svelteSortOrder": "options-styles-scripts-markup",
+    "tabWidth": 2,
+    "trailingComma": "all"
+}
